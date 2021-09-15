@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<head>
+    <style>
+    
+        h1 {
+            text-align: center;
+            color: #edb1f1;
+        }
+      body { background-color:#9896f1 ;
+          color: #edb1f1;}
+    </style>
+  <h1>
+      Pokemon
+  </h1>
+</head>
+<body>
+    <br> <br>
+ <p>Pokemon are amazing!</p> 
+ <br>
+ <p>Eevee #133 and the eeveelutions</p>
+ <p>It has the ability to alter the composition of its body to suit its surrounding environment. Thanks to its unstable genetic makeup, this special Pokémon conceals many different possible evolutions.</p>
+ <img src="https://daily.pokecommunity.com/wp-content/uploads/2016/04/whos_that_pokemon_eevee-reveal-768x431.png" alt="" width="300">
+<br>
+<p>Type: Normal
+    <br>
+    Weakness: Fighting 
+</p>
+<br><br>
+Eevee evolves into the varying Pokemon
+<br> Vaporeon
+<img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/134.png" alt="" width="100">
+Jolteon
+<img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/135.png" alt="" width="100">
+Flareon
+<img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/136.png" alt="" width="100">
+<br>
+Espeon
+<img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/196.png" alt="" width="100">
+Umbreon
+<img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/197.png" alt="" width="100">
+<br>
+Leafeon
+<img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/470.png" alt="" width="100">
+Glaceon
+<img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/471.png" alt="" width="100">
+<br>
+Sylveon
+<img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/700.png" alt="" width="100">
+
+
+</body><br><br>
+<img src="https://assets.pokemon.com/assets/cms2/img/pokedex/full/133.png" alt="" width="300">
+<br>
+<br><a href="https://www.pokemon.com/us/pokedex/eevee">Learn more about Eevee at the Pokemon Center</a>
+<br> <br>
+<button>
+    Follow our twitch stream (coming soon)
+</button>
+</body>
+<footer>
+    <p>©Copyright 2021 by Amber Sass. All rights reversed. Images are not my own</p>
+  </footer>
+</html>
